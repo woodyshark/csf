@@ -1,0 +1,62 @@
+<style>
+.txt {	 border : 1 solid; background-color: #f8f8f8; color: #000000;font-family: "MS Sans Serif"; font-size: xx-small; font-style: normal}
+.butt {	 background-color: #dcdcff ; color: #000000;font-family: "MS Sans Serif"; font-size: xx-small; font-style: normal }
+select {  border : 1 solid; background-color: #f8f8f8; font-family: "MS Sans Serif"; font-size: normal; font-style: normal}
+textarea {
+	font-family: "MS Sans Serif";
+	font-size: xx-small;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	background-color: #f8f8f8;
+	border: 1  solid;
+	text-decoration : none;
+    background-attachment: scroll;
+    scrollbar-base-color: #f8f8f8;}
+
+BODY {
+        background-color:#FFFFFF;
+		font-size : xx-small;
+		font-style: normal;
+		font-family : "MS Sans Serif";
+		color : Black;
+	    SCROLLBAR-FACE-COLOR: #c0c0c0; 
+		SCROLLBAR-HIGHLIGHT-COLOR: #c0c0c0; 
+		SCROLLBAR-SHADOW-COLOR: #ffffff; 
+		SCROLLBAR-3DLIGHT-COLOR: #FFFFFF; 
+		SCROLLBAR-ARROW-COLOR:  #ffffff; 
+		SCROLLBAR-TRACK-COLOR: #E3E3E3; 
+		SCROLLBAR-DARKSHADOW-COLOR: #c0c0c0;
+		 marginwidth:0;
+		 marginheight:0;
+		 leftmargin:0;
+
+}  
+.P1 {  font-size : large;font-family :"MS Sans Serif"; font-weight : bold ;color: #0000ff; }
+.f1 {  font-size : xx-small;font-family :"MS Sans Serif";font-weight : bold;color: #0000ff; }
+.h1 { font-size : xx-small;font-family :"MS Sans Serif" ; font-weight : none;  color: #0000ff ; }
+A:link { font-size : xx-small; text-decoration : none;  font-weight : bold; font-family :"MS Sans Serif"; color: #0000FF;}
+A:active { font-size : xx-small;text-decoration : none; font-weight : bold; font-family :"MS Sans Serif";color: #800080}
+A:visited { font-size : xx-small;text-decoration : none; font-weight : bold; font-family :"MS Sans Serif"; color: #0000FF}
+A:hover { font-size : xx-small;text-decoration : underline; font-weight : bold; font-family :"MS Sans Serif"; color: #800080}
+
+.tree1:link { font-size : xx-small; text-decoration : none; font-weight : none; font-family :"MS Sans Serif"; color: #000000}
+.tree1:active { font-size : xx-small;text-decoration : none; font-weight : none; font-family :"MS Sans Serif";color: #000000}
+.tree1:visited { font-size : xx-small;text-decoration : none;font-weight : none; font-family :"MS Sans Serif"; color: #000000}
+.tree1:hover { font-size : xx-small;text-decoration : underline;font-weight : none; font-family :"MS Sans Serif"; color: #FF0000}
+
+.tree2:link { font-size : xx-small; text-decoration : none;  font-family :"MS Sans Serif"; color: #000000}
+.tree2:active { font-size : xx-small;text-decoration : none; font-family :"MS Sans Serif";color: #000000}
+.tree2:visited { font-size : xx-small;text-decoration : none; font-family :"MS Sans Serif"; color: #000000}
+.tree2:hover { font-size : xx-small;text-decoration : underline; font-family :"MS Sans Serif"; color: #FF0000}
+
+.tree3:link { font-size : xx-small; text-decoration : none;  font-family :"MS Sans Serif"; color: #000000}
+.tree3:active { font-size : xx-small;text-decoration : none; font-family :"MS Sans Serif";color: #000000}
+.tree3:visited { font-size : xx-small;text-decoration : none; font-family :"MS Sans Serif"; color: #000000}
+.tree3:hover { font-size : xx-small;text-decoration : underline; font-family :"MS Sans Serif"; color: #FF0000}
+td {  font-family: "MS Sans Serif"; font-size: xx-small; font-style: normal; }
+.tr0 {  font-family: "MS Sans Serif"; font-size: xx-small; font-style: normal; background-color: #0000ff ; color: #ffff00; font-weight : bold}
+.tr1 {  font-family: "MS Sans Serif"; font-size: xx-small; font-style: normal; background-color: #ffffff; color: #000000 }
+.tr2 {  font-family: "MS Sans Serif"; font-size: xx-small; font-style: normal; background-color: #f0f0f0 ; color: #000000; }
+
+</style>
